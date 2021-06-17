@@ -54,4 +54,8 @@ margin-bottom: 50px;
     margin-left: 50px;
 }
 
+.bg{
+    background-image: url(https://vandal-us.s3.amazonaws.com/spree/products/5a4d350bd9a87400f11a9f13/product/open-uri20180925-12-1w5isjb.jpg);
+}
+
 /* Estilos da pagina index.html */
