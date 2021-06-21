@@ -1,0 +1,61 @@
+/* Estilos da pagina index.html */
+
+.center{
+    text-align: center;
+}
+
+.justify{
+    text-align: justify;
+}
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu li{
+display: inline;
+
+
+}
+
+.menu li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.menu li a:hover{
+   color: blue;
+}
+
+.p-30{
+padding: 30px;
+
+}
+
+.br-50{
+    border-radius: 50%;
+}
+
+.tm-social{
+    width: 50px;
+    height: 50px;
+}
+
+.mb-50{
+margin-bottom: 50px;
+}
+
+.ml-50px{
+
+    margin-left: 50px;
+}
+
+.bg{
+    background-image: url(https://vandal-us.s3.amazonaws.com/spree/products/5a4d350bd9a87400f11a9f13/product/open-uri20180925-12-1w5isjb.jpg);
+}
+
+/* Estilos da pagina index.html */
